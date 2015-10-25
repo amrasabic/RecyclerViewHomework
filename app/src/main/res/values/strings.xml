@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="insert_values">Please, insert name and surname.</string>
+</resources>
